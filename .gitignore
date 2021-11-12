@@ -1,4 +1,8 @@
-*.doc*
+
+.idea
 .DS_Store
+
 */img
 *.png
+*.doc*
+*.pdf
